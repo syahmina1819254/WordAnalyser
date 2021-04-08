@@ -1,5 +1,8 @@
 # WordAnalyser
 A Word Analyzer analyzes any word and determine number of consonants and vowels
+
+
+
 Step to develop the app:
 1.  Initialize the data which is the word,count vowel, count consonant , word length and splitwords as state.
 2.  Create a display that show the title of the app and text input.
